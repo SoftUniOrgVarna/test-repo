@@ -1,0 +1,3 @@
+	name = Erdzhan
+	size = 185
+	email = erdjoo99@gmail.com
